@@ -107,7 +107,7 @@ Full write-up with charts: `report/OLA_Project_Report.pdf`
 **[ Name Niteesh Pandey]**
 Data Analyst | SQL · Power BI · Python
 🔗 [LinkedIn]() 
-• [Portfolio]()
+• [Portfolio] (https://niteesh-pandey.github.io))
 
 ---
 
